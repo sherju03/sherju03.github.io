@@ -1,0 +1,25 @@
+---
+output: html_document
+---
+
+<center>
+
+## Bienvenid\@s a mi página web {style="color: pink"}
+
+------------------------------------------------------------------------
+
+**Nombre:** Jurado Ayala Silvia Sherlyn
+
+**Correo electrónico:** silvia.sherlyn03\@gmail.com
+
+**Semblanza:** Estudiante de la facultad de economía
+
+------------------------------------------------------------------------
+
+![](foto.jpg "Sherlyn"){width="172"}
+
+------------------------------------------------------------------------
+
+[Revisa mi CV](https://sherju03.github.io/cv.pdf "CV")
+
+</center>
